@@ -1,0 +1,17 @@
+LCD and bmp180
+D1 = SCL
+D2 = SDA
+3V3 = Vcc
+Gnd = gnd
+
+DHT11
+3V3 = Vcc
+Gnd = gnd
+D5 = data
+
+Ml8511
+3V3 = Vcc
+Gnd = gnd
+3v3 = EN
+A0 = OUT
+
